@@ -1,5 +1,6 @@
 # Student Info
 Matric : 271278
+
 Name : Nurul Nadiah bt Yusuf
 # Introduction
 For my first assignment i need to write java code, pseudocode, make flow chart and write java program how to solve the problems that have given from my lecturer. in this assignment also, i have to wrote code java about car loan. i need to calculate monthly repayment according to car price, down payment, loan period and interest rate. To solve this problems i use #if,else if and return as my java program code. In this assignment,there have condition that car price cannot be less than RM 30,000 and i use if,else if and return as my work to solve that problem.
